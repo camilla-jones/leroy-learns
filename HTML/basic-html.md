@@ -4,8 +4,8 @@ title: First Lesson
 ---
 #Creating your First web page!
 ##Basic HTML
-
-`<!DOCTYPE html>
+```
+<!DOCTYPE html>
 <html>
 <head>
 <title>Page Title</title>
@@ -18,5 +18,6 @@ title: First Lesson
 </body>
 </html>
 
-`
+```
+
 ##Main Takeaways
