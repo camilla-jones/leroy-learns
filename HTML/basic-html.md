@@ -1,5 +1,9 @@
-#First Lesson
-#Basic HTML
+---
+layout: home
+title: First Lesson
+---
+#Creating your First web page!
+##Basic HTML
 
 '<!DOCTYPE html>
 <html>
