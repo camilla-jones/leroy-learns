@@ -46,13 +46,18 @@ The main section of the HTML doucment is the body. The body is what the user see
 
 `<!DOCTYPE html>`
 : Denotes begging of html document
+
 `<html>`
 : tag used to signify html
+
 `<head>`
 : demotes header of page
+
 `<body>`:
 Doamte main body of html docums. Put stuff you want the user to see between these two tags.
+
 `<h1>`
-: tag for headers. goes from 1 to 6 with 1 being the lagrest and 6 being the smallest
+: tag for headers. Goes from 1 to 6 with 1 being the lagrest and 6 being the smallest
+
 `<p>`:
-demotes a paragraph 
+demotes a paragraph
