@@ -5,7 +5,7 @@ title: First Lesson
 # Creating your First web page!
 
 ## Basic HTML
-```html:
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -22,8 +22,12 @@ title: First Lesson
 ## Descrition
 This is a very basic webpage. This made using HTML(Hyper Text Markup Language). It not case sentive however it is best pratice to use lower case.
 
-It Starts and end with `<!Doctype html>` This tells the web brower that this is a HTML document. The ending tag `</html>` tell the web browers that the doucument is ending  
+It Starts and end with `<!DOCTYPE html>` This tells the web brower that this is a HTML document. The ending tag `</html>` tells the web browers that the doucument is ending  
+
+
 
 ## Main Takeaways
+
+- All HTML doucments have to start with `<!DOCTYPE html>`
 
 ### Tags used
