@@ -17,4 +17,6 @@ title: First Lesson
 
 </body>
 </html>
+
 `
+##Main Takeaways
