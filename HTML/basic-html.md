@@ -22,11 +22,15 @@ title: First Lesson Creating your First web page!
 ## Description of HTML
 This is the code for a very basic webpage. This made using HTML(Hyper Text Markup Language).
 
-HTML doucments are made up of tags e.g `<h1>`.TThey are used to tell thr browers how to render the tags  The tags not case sentive however it is best pratice to use lower case.
+HTML doucments are made up of tags e.g `<h1>`.TThey are used to tell thr browers how to render the tags. The tags not case sentive however it is best pratice to use lower case.
 
-The document starts with `<!DOCTYPE html>` This tells the web brower that this is a HTML document.
+The document starts with `<!DOCTYPE html>` This tells the web brower that this is a HTML document. Not depfifieing the version meand that the browers defaults to html5(most recent).
 
-The seco
+
+
+The thrid tag is the `<head>`. The head tags store the metadata for the webpage.IT also stored fectures life 
+
+
 
 ## Main Takeaways of lesson
 
@@ -34,4 +38,8 @@ The seco
 
 ### Tags used
 
-`<!DOCTYPE html>`: Denotes begging of html document.
+`<!DOCTYPE html>`:
+Denotes begging of html document.
+`<html>`:
+tag used to signify html.
+`<head>`:
