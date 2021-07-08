@@ -1,10 +1,11 @@
 ---
-layout: page
-title: Third  Lessons using Divs!
+Layout: Page
+Title: Third  Lessons using Divs!
 ---
 # Basic DIV HTML
 
 ```html
+<!DOCTYPE html>
 <html>
 <head>
 <style>
